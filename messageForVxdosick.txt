@@ -1,4 +1,0 @@
-I want you to commit and push the working version of your React project to a branch with your name. 
-Next, I'll look at your code through the pull request and transfer it to the master branch. 
-
-After that, we will be able to fully work together.
