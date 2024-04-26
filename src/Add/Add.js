@@ -2,6 +2,7 @@ import React from "react"
 import styles from "./Add.module.scss"
 import TextInput from "../TextInput/TextInput";
 import UnsetButton from "../UnsetButton/UnsetButton";
+import axios from "axios";
 
 export default function Add() {
     const [ingredients, setIngredients] = React.useState([]);
@@ -57,7 +58,6 @@ export default function Add() {
         setValue('')
     }
     const onAddCocktail = () => {
-        
     }
     return (
         <section className={styles.name}>

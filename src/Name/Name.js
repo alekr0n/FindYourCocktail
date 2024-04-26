@@ -4,9 +4,15 @@ import React from "react"
 import UnsetButton from "../UnsetButton/UnsetButton"
 import Card from "../Card/Card"
 import axios from "axios"
+import NameModal from "../NameModal/NameModal"
+
 export default function Name() {
     const [inputValue, setInputValue] = React.useState('')
     const [allCocktails, setAllCocktails] = React.useState([])
+    const [modal, setModal] = React.useState()
+    const [object, setObject] = React.useState({})
+
+
     const handleChange = (event) => {
         setInputValue(event.target.value)
     }
@@ -18,6 +24,17 @@ export default function Name() {
             setAllCocktails(res.data)
         })
     },[])
+
+    const  onClickModal = () => {
+        setModal(!modal)
+    }
+
+    const onClickCard = (key) => {
+        setObject({name: key.name, img: key.img, ingredients: key.ingredients})
+        console.log(key);
+        onClickModal()
+    }
+
     return (
         <section className={styles.name}>
             <div className={styles.name__up}>
@@ -39,15 +56,21 @@ export default function Name() {
             <div className={styles.name__main}>
                 {allCocktails.filter(item => item.name.toLowerCase().includes(inputValue.toLowerCase())).map((obj) => {
                     return (
-                        <Card
-                        key={obj.name}
-                        name={obj.name}
-                        img={obj.img}
-                        ingredients={obj.ingredients}
-                    />
+                            <Card
+                            onClick={() => onClickCard({name: obj.name, img: obj.img, ingredients: obj.ingredients})}
+                            key={obj.name}
+                            name={obj.name}
+                            img={obj.img}
+                            ingredients={obj.ingredients}
+                            />
                     )
                 })}
             </div>
+            {modal && (
+
+                <NameModal object ={object} onClickModal={onClickModal} />
+
+            ) }
         </section>
     )
 }
