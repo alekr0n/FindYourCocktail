@@ -1,0 +1,17 @@
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Persistence.deps.json
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Persistence.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Persistence.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Application.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Domain.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Application.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\bin\Debug\net8.0\Cocktails.Domain.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.csproj.AssemblyReference.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.AssemblyInfoInputs.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.AssemblyInfo.cs
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.csproj.CoreCompileInputs.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.csproj.CopyComplete
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\refint\Cocktails.Persistence.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\Cocktails.Persistence.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Persistence\obj\Debug\net8.0\ref\Cocktails.Persistence.dll
