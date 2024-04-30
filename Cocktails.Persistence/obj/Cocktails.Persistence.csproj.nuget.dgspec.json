@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Persistence\\Cocktails.Persistence.csproj": {}
+    "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\Cocktails.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\Cocktails.Application.csproj": {
+    "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\Cocktails.Application.csproj",
+        "projectUniqueName": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj",
         "projectName": "Cocktails.Application",
-        "projectPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\Cocktails.Application.csproj",
+        "projectPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj",
         "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\obj\\",
+        "outputPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Domain\\Cocktails.Domain.csproj": {
-                "projectPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Domain\\Cocktails.Domain.csproj"
+              "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Domain\\Cocktails.Domain.csproj": {
+                "projectPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Domain\\Cocktails.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Domain\\Cocktails.Domain.csproj": {
+    "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Domain\\Cocktails.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Domain\\Cocktails.Domain.csproj",
+        "projectUniqueName": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Domain\\Cocktails.Domain.csproj",
         "projectName": "Cocktails.Domain",
-        "projectPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Domain\\Cocktails.Domain.csproj",
+        "projectPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Domain\\Cocktails.Domain.csproj",
         "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Domain\\obj\\",
+        "outputPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Persistence\\Cocktails.Persistence.csproj": {
+    "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\Cocktails.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
+        "projectUniqueName": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
         "projectName": "Cocktails.Persistence",
-        "projectPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
+        "projectPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
         "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Persistence\\obj\\",
+        "outputPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\Cocktails.Application.csproj": {
-                "projectPath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\Cocktails.Application.csproj"
+              "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj": {
+                "projectPath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj"
               }
             }
           }

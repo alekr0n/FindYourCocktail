@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fVi0s3K+T1doQ8vvlstnk+cyk82kxdTCZeGngAVM7kqVq9CpCxQxE+4OmsB1ertnHoOqdXJundwvtYQNoSH6Ow==",
+  "dgSpecHash": "6agOC76Lqx48mKqfHddC/XZY4FHoC1vteEiCJxcmb/9/qiaqA/c6TYX2PiwRYZQgsJahjmdMZBssvsB20D2FGA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
+  "projectFilePath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

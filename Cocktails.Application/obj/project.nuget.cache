@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jc5ZoJAMwb/HmhXgyHyhwNAK6uh8qb9OwxP7WWnexwR0/cZvn1roiD1pvMSp5O2as/EG0tEUx2Ugvd/AylF14g==",
+  "dgSpecHash": "6d9m+J8/gHdOPzTlDETnqB7beg4R1GUb4EUrV5Q1GDnNum3LmrNHiRWVCfG+LO9O5zgSM/wjl0HYnHF/xT9U7w==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.Application\\Cocktails.Application.csproj",
+  "projectFilePath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\misha\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
