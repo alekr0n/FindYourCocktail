@@ -1,0 +1,15 @@
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\bin\Debug\net8.0\Cocktails.Application.deps.json
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\bin\Debug\net8.0\Cocktails.Application.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\bin\Debug\net8.0\Cocktails.Application.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\bin\Debug\net8.0\Cocktails.Domain.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\bin\Debug\net8.0\Cocktails.Domain.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.csproj.AssemblyReference.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.AssemblyInfoInputs.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.AssemblyInfo.cs
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.csproj.CoreCompileInputs.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.csproj.CopyComplete
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\refint\Cocktails.Application.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\Cocktails.Application.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Application\obj\Debug\net8.0\ref\Cocktails.Application.dll
