@@ -1,0 +1,11 @@
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\bin\Debug\net8.0\Cocktails.Domain.deps.json
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\bin\Debug\net8.0\Cocktails.Domain.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\bin\Debug\net8.0\Cocktails.Domain.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\Cocktails.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\Cocktails.Domain.AssemblyInfoInputs.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\Cocktails.Domain.AssemblyInfo.cs
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\Cocktails.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\Cocktails.Domain.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\refint\Cocktails.Domain.dll
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\Cocktails.Domain.pdb
+D:\Documents\programming\C#\ASP dot NET\Cocktail.Backend\Cocktails.Domain\obj\Debug\net8.0\ref\Cocktails.Domain.dll
