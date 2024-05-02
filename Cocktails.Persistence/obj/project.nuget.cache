@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6agOC76Lqx48mKqfHddC/XZY4FHoC1vteEiCJxcmb/9/qiaqA/c6TYX2PiwRYZQgsJahjmdMZBssvsB20D2FGA==",
+  "dgSpecHash": "Y8NKGLm3URNyk0/crt7pIbWtifE1/ISLyWq52Z+KqjYLjtceBL/8L+YEYzSTHv4QNZwLl1dfhBDSL5vqpz3RSw==",
   "success": true,
   "projectFilePath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Persistence\\Cocktails.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\misha\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",

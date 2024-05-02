@@ -11,7 +11,7 @@ namespace Cocktails.Domain
         public int id { get; set; }
         public string name { get; set; }
         public Ingredients ingredients { get; set; }
-        public List<string> recipe { get; set; }
+        public List<string>? recipe { get; set; }
         public bool isCustom { get; set; }
         public DateTime? time { get; set; }
         public Estimate? estimate { get; set; }

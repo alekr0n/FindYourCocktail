@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l6hUeJsQLWK/nFEnT+3Qc2WYbQY7YFVLkCz2rjSiEOt10EOI+ycbuTY7XYvK/HiSdIM8I6TfaizW/XJdZc4iJw==",
+  "dgSpecHash": "YHkMtRk5qvoYJ4akB+ESjQJiT3OZQV+qmDt3xVANupFK0fllf4CtaPkpWm7j2227DlO/iK/rvFqlz9vE3g6RxQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\programming\\C#\\ASP dot NET\\Cocktail.Backend\\Cocktails.WebApi\\Cocktails.WebApi.csproj",
+  "projectFilePath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.WebApi\\Cocktails.WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
