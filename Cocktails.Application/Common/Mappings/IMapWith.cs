@@ -9,7 +9,7 @@ namespace Cocktails.Application.Common.Mappings
 {
     public class IMapWith<T>
     {
-        void Mappinf(Profile profile) =>
+        void Mapping(Profile profile) =>
             profile.CreateMap(typeof(T), GetType());
     }
 }
