@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SzgM3741whsqhcCSZv6OO3QulrdB9P7unVnUznWUkF2RhEgm1OMoq2ov5p38DLePkJgpDivoM3L2oBl4lFki6g==",
+  "dgSpecHash": "BXVlF9mRqU3UuNzGYe8smZ0h6XKs2h8PrYGl5BRWm00EO9RNsiW6/R9qbkwRk8taAinf8F2Fx6PGZRDiLMM34A==",
   "success": true,
   "projectFilePath": "D:\\Documents\\programming\\Study\\ProjectWithVadym\\FindYourCocktail\\Cocktails.Application\\Cocktails.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\misha\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
@@ -19,5 +20,16 @@
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

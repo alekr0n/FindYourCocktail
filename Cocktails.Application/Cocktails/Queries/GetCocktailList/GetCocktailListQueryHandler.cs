@@ -25,8 +25,9 @@ namespace Cocktails.Application.Cocktails.Queries.GetCocktailList
             var cocktailsQuery = await _dbContext.Cocktails
                 .Where(cocktail => cocktail.id == request.id)
                 .ProjectTo<CocktailLookupDto>(_mapper.ConfigurationProvider)
-                .ToListAsync(cancellationToken); 
-            
+                .ToListAsync(cancellationToken);
+
             return new CocktailListVm { Cocktails = cocktailsQuery };
+        }
     }
 }
